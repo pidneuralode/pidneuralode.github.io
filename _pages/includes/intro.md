@@ -10,7 +10,7 @@ I was recognized with several honors, including:
 - *2018* Second Prize in the NXP Cup National College Students’ Intelligent Car Competition (South China Division)  
 - *2017* China National Encouragement Scholarship, Xiamen University  
 
-My research interests include **neural differential equations**, **graph transformers for scientific learning**, and **physics-informed surrogate models**. I have published papers <a href='https://scholar.google.com/citations?user=YOUR_ID'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> in leading journals and conferences such as **Nature Communications, Neurocomputing, AAAI, IEEE Transactions on Network Science and Engineering**.  
+My research interests include **neural differential equations**, **graph transformers for scientific learning**, and **physics-informed surrogate models**. I have published papers in some journals and conferences such as **Nature Communications, Neurocomputing, AAAI, IEEE Transactions on Network Science and Engineering**.  
 
 To promote academic communication, I actively engage in interdisciplinary collaborations at the intersection of **artificial intelligence, control theory, and fluid dynamics**, aiming to develop efficient and generalizable PDE foundation models.  
 
