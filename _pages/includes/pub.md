@@ -23,6 +23,8 @@ Jiaxu Liu, Yixiao Qian, **Pengkai Wang**, Song Chen, Shengze Cai
 
 ## ✈️ AI for Scientific Computing
 
+**Published:**
+
 - `AAAI 2025` AeroGTO: An Efficient Graph-Transformer Operator for Learning Large-Scale Aerodynamics of 3D Vehicle Geometries  \\
 Pengwei Liu*, **Pengkai Wang*** (co-first), Xingyu Ren , Hangjie Yuan, Zhongkai Hao, Chao Xu, Shengze Cai, Dong Ni
 
@@ -31,7 +33,7 @@ Siming Shan, **Pengkai Wang**, Chen Song, Jiaxu Liu, Wen Yao, Chao Xu, Shengze C
 
 **Under review:**
 
-- Uncertainty-Informed Meta Pseudo Labeling for Surrogate Modeling with Limited Labeled Data \\
+- `NeurIPS 2025` Uncertainty-Informed Meta Pseudo Labeling for Surrogate Modeling with Limited Labeled Data \\
 Xingyu Ren, Pengwei Liu, **Pengkai Wang**, Hangjie Yuan, Dong Ni
 
 - `Nature Communications` An Efficient Graph-Transformer Operator for Learning Physical Dynamics with Manifolds Embedding \\
